@@ -48,6 +48,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 ## Infrastructure & DevOps
 
+| [3D Agent Monitor Dashboard](https://github.com/ccperdst-lab/openclaw-monitor) | Real-time 3D visualization of OpenClaw agents — Three.js world with physics, minions, and live chat |
+
 | Name | Description |
 |------|-------------|
 | [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
